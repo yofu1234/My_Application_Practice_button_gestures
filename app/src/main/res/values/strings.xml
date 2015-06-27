@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application Practice button gestures</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="this_text">Click Me</string>
+    <string name="hello_string">Hello</string>
+</resources>
